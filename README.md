@@ -23,3 +23,10 @@ On Linux find executable file ./darknet in the root directory, while on Windows 
 
 To know more about compilation steps, kindly refer to the below link:
 https://github.com/artynet/darknet-alexeyAB
+
+
+For Trainning :
+the labelled images has to be placed under data folder as obj.zip
+
+For Validation:
+the labelled images has to placed under data folder as test.zip
